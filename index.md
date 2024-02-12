@@ -4,9 +4,14 @@
 layout: default
 ---
 
-This is the interim website of the 3<sup>S</sup> research group at Technische
-Universität Berlin.
-For further information on our group, please see our old website: [MCC @ TU Berlin](https://www.tu.berlin/en/mcc).
+We are excited to announce that we have secured funding for three (!) BMBF-funded,
+PhD-student-led research projects as part of the [Software Campus 2024](https://softwarecampus.de/en/)
+program.
+These projects will run for one to two years starting in March 2024.
+If you're interested in supporting these projects as a research assistant, please see below on
+how to apply.
+For further information on the 3<sup>S</sup> research group, please see our old
+website: [MCC @ TU Berlin](https://www.tu.berlin/en/mcc).
 
 ## Open Positions
 
@@ -23,12 +28,7 @@ We encourage interested students to apply by e-mail to Prof. David Bermbach.
 
 ## Software Campus Projects 2024
 
-We are excited to announce that we have secured funding for three (!) BMBF-funded,
-PhD-student-led research projects as part of the [Software Campus 2024](https://softwarecampus.de/en/)
-program.
-These projects will run for one to two years starting in March 2024.
-If you're interested in supporting these projects as a research assistant, please see above on
-how to apply.
+Here are brief project descriptions.
 
 ### EMPIRIS: Efficient Monitoring of Performance in Release and Integration Pipelines in Agile Software Development
 
@@ -79,7 +79,7 @@ See Trever's other research for further information:
 Edge computing is essential for new applications such as IoT and XR.
 However, the high investment costs mean that edge infrastructure has so far been
 preferred in urban, affluent regions.
-The SPENCER project develops software abstractions to overcome the “digital divide”
+The SPENCER project develops software abstractions to overcome the "digital divide"
 and for remote IoT applications.
 Methods for global, geo-distributed software deployment in the context of
 satellite networks are primarily discussed.
