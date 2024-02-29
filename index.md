@@ -19,9 +19,8 @@ We are currently looking for highly motivated students to join us as research
 assistants (f/m/x) for three BMBF-funded projects starting in March 2024
 (see project descriptions below).
 
-Please see announcements on the TU Berlin website:
+Please see announcement on the TU Berlin website:
 
-1. [Student assistant (60 hours per month)](https://www.jobs.tu-berlin.de/en/job-postings/179053)
 1. [Student assistant (60 hours per month)](https://www.jobs.tu-berlin.de/en/job-postings/179048)
 
 We encourage interested students to apply by e-mail to Prof. David Bermbach.
